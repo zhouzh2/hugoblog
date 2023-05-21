@@ -14,4 +14,6 @@ isCJKLanguage: true
 draft: false
 ---
 
+# VIM 布道者
+
 VIM 真的好用! 准备教程！
