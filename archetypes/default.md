@@ -10,6 +10,5 @@ tags:
 - plugins
 - spf13-vim
 - vim
-isCJKLanguage: true
 draft: true
 ---
